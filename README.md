@@ -126,7 +126,7 @@ void Point::printPoint() {
     cout << "Point: (" << this->x << ", " << this->y << ")" << endl;
 }
 
-// Main function
+// Main functions
 int main(int argc, char* argv[]) {
     Point *p = new Point;
     p->x = 10;
